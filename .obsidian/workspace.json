@@ -23,12 +23,8 @@
             "id": "130d55094a59b2a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Computer Science/Visual Studio/Hotkeys.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Computer Science/Visual Studio/Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Computer Science/Visual Studio/Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Computer Science/Visual Studio/Hotkeys.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,8 +153,13 @@
   },
   "active": "130d55094a59b2a5",
   "lastOpenFiles": [
-    "Notes/Computer Science/Visual Studio/Visual Studio Code Keyboard Shortcuts.pdf",
+    "Notes/Computer Science/Csharp Standard Library/Exception Handling.md",
+    "Notes/Computer Science/Csharp Standard Library/Null Coalescing.md",
     "Notes/Computer Science/Visual Studio/Hotkeys.md",
+    "Notes/Computer Science/Visual Studio/Integrated Developer Enviroment.md",
+    "Notes/Computer Science/Visual Studio/Solution Explorer.md",
+    "Notes/Computer Science/Visual Studio/The Debugger.md",
+    "Notes/Computer Science/Visual Studio/Visual Studio Code Keyboard Shortcuts.pdf",
     "Notes/Computer Science/Object Oriented Programming/S.O.L.I.D. Design Principles.md",
     "Notes/Computer Science/Object Oriented Programming/Design Pattern.md",
     "Notes/Computer Science/Object Oriented Programming/Decorator Pattern.md",
@@ -173,7 +170,6 @@
     "Notes/Computer Science/Object Oriented Programming/D.md",
     "Notes/Computer Science/Csharp Standard Library/Methods.md",
     "Notes/Computer Science/Csharp Standard Library/Abstract Classes.md",
-    "Notes/Computer Science/Csharp Standard Library/Untitled.md",
     "Notes/Computer Science/Csharp Standard Library/Lambda Expressions.md",
     "Notes/Computer Science/Csharp Standard Library/Data Type Suffixes.md",
     "Notes/Computer Science/Csharp Standard Library/Await.md",
@@ -184,9 +180,6 @@
     "Notes/Computer Science/Csharp Standard Library/Classes.md",
     "Notes/STAT 516/Sum of Squares of Errors (SSE).md",
     "Notes/STAT 516/Total Sum of Squares (TSS).md",
-    "Notes/STAT 516/Residual.md",
-    "Notes/STAT 516/Mean Squared Error (MSE).md",
-    "Notes/STAT 516/Model.md",
     "Notes/Computer Science/Data Structures & Algorithms",
     "Notes/Computer Science/Visual Studio",
     "Notes/STAT 516/STAT516 Syllabus.pdf",

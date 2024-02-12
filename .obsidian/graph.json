@@ -15,6 +15,13 @@
       }
     },
     {
+      "query": "path:\"Notes/Computer Science/Visual Studio\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11230422
+      }
+    },
+    {
       "query": "path:\"Notes/Computer Science\"  ",
       "color": {
         "a": 1,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.25883865621816704,
+  "scale": 0.713275462622457,
   "close": true
 }
