@@ -1,2 +1,2 @@
 # brain2
-Obsidian.MD Sync
+github repo to synchronize obsidian notes across devices
