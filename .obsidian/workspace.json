@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "7c211d2ee43f7fdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2e1857485209701",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea2bb33e489c92b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0b73b444e5da97f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cbc512949c2e1dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8432710fc1a8161",
+    "type": "split",
+    "children": [
+      {
+        "id": "8efd182d30687887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbe1383cfa6e4eef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4689f00a5360f10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b93c9b078f530c5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b5e55b794d4ac64",
+    "type": "split",
+    "children": [
+      {
+        "id": "848db819db8d299d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f65c8957cf4f6adb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7452e309aee9a0d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5d90ec6370483f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "571063ea1dedfa34",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5cbc512949c2e1dc",
+  "lastOpenFiles": [
+    "README.md",
+    "Welcome.md",
+    "Notes/Computer Science",
+    "Notes/Computer Science/Top Level Programs.md",
+    "Notes/Computer Science/The Big List of Tools I Need to Get Good With.md",
+    "Notes/Computer Science/Csharp Standard Library/Useful String Manipulations.md",
+    "Notes/Computer Science/Csharp Standard Library/Static.md",
+    "Notes/Computer Science/Csharp Standard Library/The Ternary Conditional Operator.md",
+    "Notes/Computer Science/Csharp Standard Library/Random.md",
+    "Notes/Computer Science/Csharp Standard Library/Namespaces.md",
+    "Notes/Computer Science/Csharp Standard Library/Lambda Expressions.md",
+    "Notes/Computer Science/Csharp Standard Library/Interfaces.md",
+    "Notes/Computer Science/Csharp Standard Library/Data Type Suffixes.md",
+    "Notes/Computer Science/Csharp Standard Library/Classes.md",
+    "Notes/Computer Science/Csharp Standard Library/Abstract Classes.md",
+    "Notes/Computer Science/Csharp Standard Library",
+    "Notes/Computer Science/Object Oriented Programming/Strategy Pattern.md",
+    "Notes/Computer Science/Object Oriented Programming/Singleton.md",
+    "Notes/Computer Science/Object Oriented Programming/S.O.L.I.D. Design Principles.md",
+    "Notes/Computer Science/Object Oriented Programming/Observer Pattern.md",
+    "Notes/Computer Science/Object Oriented Programming/Facade Pattern.md",
+    "Notes/Computer Science/Object Oriented Programming/Decorator Pattern.md",
+    "Notes/Computer Science/Object Oriented Programming",
+    "Notes"
+  ]
+}

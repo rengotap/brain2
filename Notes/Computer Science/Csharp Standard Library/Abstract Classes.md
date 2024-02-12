@@ -1,0 +1,1 @@
+An abstract class is a type of Class (see [[Classes]]).

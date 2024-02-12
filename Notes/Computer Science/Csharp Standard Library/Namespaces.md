@@ -1,0 +1,1 @@
+The namespace keyword declares a scope that contains a set of related objects.

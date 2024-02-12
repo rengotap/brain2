@@ -1,0 +1,1 @@
+Multiple ways of achiving the same thing
