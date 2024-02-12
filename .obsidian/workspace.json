@@ -4,36 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a2e1857485209701",
+        "id": "5a43b4690f91c74e",
         "type": "tabs",
         "children": [
           {
-            "id": "ea2bb33e489c92b4",
+            "id": "9bc6fb64c3a2af14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Computer Science/Csharp Standard Library/Async.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "130d55094a59b2a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Computer Science/Visual Studio/Hotkeys.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "0b73b444e5da97f4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5cbc512949c2e1dc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Computer Science/Visual Studio/Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Computer Science/Visual Studio/Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Computer Science/Visual Studio/Hotkeys.md"
+              }
             }
           }
         ]
@@ -156,30 +159,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cbc512949c2e1dc",
+  "active": "130d55094a59b2a5",
   "lastOpenFiles": [
-    "README.md",
-    "Welcome.md",
-    "Notes/Computer Science",
-    "Notes/Computer Science/Top Level Programs.md",
-    "Notes/Computer Science/The Big List of Tools I Need to Get Good With.md",
-    "Notes/Computer Science/Csharp Standard Library/Useful String Manipulations.md",
-    "Notes/Computer Science/Csharp Standard Library/Static.md",
-    "Notes/Computer Science/Csharp Standard Library/The Ternary Conditional Operator.md",
-    "Notes/Computer Science/Csharp Standard Library/Random.md",
-    "Notes/Computer Science/Csharp Standard Library/Namespaces.md",
-    "Notes/Computer Science/Csharp Standard Library/Lambda Expressions.md",
-    "Notes/Computer Science/Csharp Standard Library/Interfaces.md",
-    "Notes/Computer Science/Csharp Standard Library/Data Type Suffixes.md",
-    "Notes/Computer Science/Csharp Standard Library/Classes.md",
-    "Notes/Computer Science/Csharp Standard Library/Abstract Classes.md",
-    "Notes/Computer Science/Csharp Standard Library",
-    "Notes/Computer Science/Object Oriented Programming/Strategy Pattern.md",
-    "Notes/Computer Science/Object Oriented Programming/Singleton.md",
+    "Notes/Computer Science/Visual Studio/Visual Studio Code Keyboard Shortcuts.pdf",
+    "Notes/Computer Science/Visual Studio/Hotkeys.md",
     "Notes/Computer Science/Object Oriented Programming/S.O.L.I.D. Design Principles.md",
+    "Notes/Computer Science/Object Oriented Programming/Design Pattern.md",
+    "Notes/Computer Science/Object Oriented Programming/Decorator Pattern.md",
+    "Notes/Computer Science/Object Oriented Programming/Flyweight Pattern.md",
+    "Notes/Computer Science/Object Oriented Programming/Strategy Pattern.md",
     "Notes/Computer Science/Object Oriented Programming/Observer Pattern.md",
     "Notes/Computer Science/Object Oriented Programming/Facade Pattern.md",
-    "Notes/Computer Science/Object Oriented Programming/Decorator Pattern.md",
+    "Notes/Computer Science/Object Oriented Programming/D.md",
+    "Notes/Computer Science/Csharp Standard Library/Methods.md",
+    "Notes/Computer Science/Csharp Standard Library/Abstract Classes.md",
+    "Notes/Computer Science/Csharp Standard Library/Untitled.md",
+    "Notes/Computer Science/Csharp Standard Library/Lambda Expressions.md",
+    "Notes/Computer Science/Csharp Standard Library/Data Type Suffixes.md",
+    "Notes/Computer Science/Csharp Standard Library/Await.md",
+    "Notes/Computer Science/Csharp Standard Library/Async.md",
+    "Notes/Computer Science/Csharp Standard Library/Raw String Literals.md",
+    "Notes/Computer Science/Csharp Standard Library/Interfaces.md",
+    "Notes/Computer Science/Csharp Standard Library/Static.md",
+    "Notes/Computer Science/Csharp Standard Library/Classes.md",
+    "Notes/STAT 516/Sum of Squares of Errors (SSE).md",
+    "Notes/STAT 516/Total Sum of Squares (TSS).md",
+    "Notes/STAT 516/Residual.md",
+    "Notes/STAT 516/Mean Squared Error (MSE).md",
+    "Notes/STAT 516/Model.md",
+    "Notes/Computer Science/Data Structures & Algorithms",
+    "Notes/Computer Science/Visual Studio",
+    "Notes/STAT 516/STAT516 Syllabus.pdf",
+    "Notes/Computer Science",
+    "Notes/Computer Science/Csharp Standard Library",
     "Notes/Computer Science/Object Oriented Programming",
     "Notes"
   ]

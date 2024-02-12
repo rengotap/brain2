@@ -1,1 +1,2 @@
-Multiple ways of achiving the same thing
+A type of [[Design Pattern]].
+Multiple ways of achieving the same thing

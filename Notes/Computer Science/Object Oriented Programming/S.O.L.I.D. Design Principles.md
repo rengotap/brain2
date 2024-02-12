@@ -1,3 +1,6 @@
+## Definition
+The SOLID Design principles are a set of five design principles intended to make object oriented designs more understandable, flexible, and maintainable. They tie in closely with [[Design Pattern||Design Patterns]] to make good software.
+
 ## Single Responsibility Principle
 >Every class, module, or function should have one responsibility or function.
 
@@ -8,7 +11,7 @@ Single responsibility does not mean single job. Everything it does should be ver
 ## Open-Closed Principle
 >Software entities should be open for extension but closed for modification.
 
-Classes, [[Abstract Classes]], functions, etc. should allow core functions to be generic so they can be built upon. This lets you change a class without having to adapt all [[dependencies]]. Use [[inheritance]] or interfaces to achieve.
+Classes, [[Abstract Classes]], functions, etc. should allow core functions to be generic so they can be built upon. This lets you change a class without having to adapt all [[Dependencies]]. Use [[Inheritance]] or [[Interfaces]] to achieve.
 
 TCDU: If you need to add additional functionality to your program, you shouldn't be editing existing classes or methods to do so.
 
@@ -81,4 +84,4 @@ TLDR: Keep [[Interfaces]] focused. Use multiple interfaces instead of a single b
 
 >High level modules should not import anything from low level modules. Both should depend on abstractions. (ex. interfaces)
 
-It is good design to have classes rely on properties in interfaces instead of on each other. This lets us test blocks of code independently, reuse code, and reduce the complexity of the [[system]].
+It is good design to have classes rely on properties in interfaces instead of on each other. This lets us test blocks of code independently, reuse code, and reduce the complexity of the [[System]].

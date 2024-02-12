@@ -1,0 +1,26 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "6Zy1Ph2qInLzD9w8c-mt0",
+      "name": "Statistic Blue",
+      "value": "#0096ff"
+    },
+    {
+      "id": "Ybv-h8SQOg9xhT3Hqqk_v",
+      "name": "Computational Green",
+      "value": "#66ff66"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Notes/STAT 516",
+      "color": "6Zy1Ph2qInLzD9w8c-mt0"
+    },
+    {
+      "path": "Notes/Computer Science",
+      "color": "Ybv-h8SQOg9xhT3Hqqk_v"
+    }
+  ]
+}

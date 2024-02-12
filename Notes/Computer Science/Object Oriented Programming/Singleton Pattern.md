@@ -48,5 +48,3 @@ The singleton can be accessed at any point using:
 ```C#
 Object obj = Singleton.Instance.SampleMethod();
 ```
-
-![[Pasted image 20240206112044.png]]
