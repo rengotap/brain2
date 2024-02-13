@@ -24,7 +24,7 @@ public void DoSomething(int a, int b)  // a method signature
 The generic version would be: 
 `<acessibility> <return type> <method name> (<argument 1>, <argument 2>, ...etc)`
 
-Methods can be public, private, [[abstract]], sealed, or [[Static]].
+Methods can be public, private, [[Abstract]], sealed, or [[Static]].
 
 #### Method Definition
 The method definition is the code block following a method signature. It defines what the method actually does.
