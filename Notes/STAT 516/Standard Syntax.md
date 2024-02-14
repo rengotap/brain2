@@ -8,3 +8,5 @@ $σ$ is deviation
 
 ## Population
 $μ$ is the [[Population]] [[Mean]]
+
+#TODO Good page, but expand maybe consider making it a file

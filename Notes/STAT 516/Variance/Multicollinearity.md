@@ -1,0 +1,16 @@
+## Definition
+Multicollinearity is when two or more independent variables are highly correlated with each other. 
+
+
+#TODO: Define me
+
+Multicollinearity will mess betas up
+## Remedies for Multicollinearity
+#### Human Based Approaches
+1. Drop one or more variables from the [[Model]].
+2. Rescale variables
+#### Software Based approaches
+4. [[Principle Component Analysis (PCA)]]
+5. Ridge Regression
+
+> Important Note: Multicollinearity doesn't *typically* harm the predictive power of a model.

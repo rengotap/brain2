@@ -6,3 +6,5 @@ $S_{yy} = ∑(y-\bar{y})^2$
 
 ## Characteristics
 Calculate this early if performing a [[Linear Regression]]
+
+#TODO: Define my use case

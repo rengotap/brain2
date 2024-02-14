@@ -6,3 +6,5 @@ $S_{xy} = ∑(x-\bar{x})(y-\bar{y})$
 
 ## Characteristics
 Calculate this early if performing a [[Linear Regression]]
+
+#TODO: Define my use case
