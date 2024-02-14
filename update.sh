@@ -10,6 +10,8 @@ else
     echo "Updating Remote"
     git add --all
     git commit --all -m "Repo Sync from $(hostname)"
+    git push
+    echo "Update pushed."
 fi
 # if git status up to date then push, if not then pull
 read message
