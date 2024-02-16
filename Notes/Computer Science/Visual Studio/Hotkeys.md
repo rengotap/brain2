@@ -3,6 +3,7 @@
 Search Visual Studio: <kbd>Ctrl</kbd>+<kbd>Q</kbd> or <kbd>Ctrl</kbd>+ <kbd>Shift</kbd>+ <kbd>P</kbd>
 Go to Definition: <kbd>F12</kbd>
 Go to implementation: <kbd>Ctrl</kbd>+<kbd>F12</kbd>
+Open Task List: <kbd>Ctrl</kbd>+<kbd>\</kbd> then<kbd>T</kbd>
 
 ## Editing
 Code Cleanup: <kbd>Ctrl</kbd>+<kbd>K</kbd>
