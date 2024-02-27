@@ -13,9 +13,91 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Computer Science/Object Oriented Programming/S.O.L.I.D. Design Principles.md",
+                "file": "Notes/Computer Science/Object Oriented Programming/Encapsulation.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b21b9a4628b9b726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Composition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d586494d83fb1000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aggregation (Object).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6220c5827987eafd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inheritance (Classes).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92c5393ab3bf6c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abstraction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b78254c0f89a5886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polymorphism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f539ee061061be46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Computer Science/Object Oriented Programming/Databases/One-To-Many Relationship.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bb77a20d4ec4ad7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
               }
             }
           },
@@ -44,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -94,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4b5e55b794d4ac64",
@@ -111,7 +192,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Computer Science/Software Testing/Testing (Software).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +208,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Computer Science/Software Testing/Testing (Software).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +229,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Computer Science/Software Testing/Testing (Software).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,8 +249,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a342ccbb66a88b9",
+  "active": "bbe1383cfa6e4eef",
   "lastOpenFiles": [
+    "Notes/Computer Science/Networks",
+    "Notes/Computer Science/Untitled.md",
+    "Notes/Computer Science/Object Oriented Programming/Databases/Foreign Key.md",
+    "Notes/Computer Science/Object Oriented Programming/Databases/One-To-Many Relationship.md",
+    "Notes/Computer Science/Object Oriented Programming/Databases/SQL - Structured Query Language.md",
+    "Notes/Computer Science/Object Oriented Programming/Databases/Primary Key.md",
+    "Notes/Computer Science/Object Oriented Programming/Databases",
+    "Notes/Computer Science/Object Oriented Programming/S.O.L.I.D. Design Principles.md",
+    "Class Library.md",
+    "Polymorphism.md",
+    "Abstraction.md",
+    "Inheritance (Classes).md",
+    "Aggregation (Object).md",
+    "Composition.md",
+    "Notes/Computer Science/Object Oriented Programming/Encapsulation.md",
+    "Notes/Computer Science/Powershell.md",
+    "Notes/Computer Science/Software Testing/Testing (Software).md",
     "Notes/Computer Science/Software Testing/Unit Testing.md",
     "Notes/Computer Science/Csharp Standard Library/Useful String Manipulations.md",
     "Notes/Computer Science/Csharp Standard Library/Raw String Literals.md",
@@ -182,24 +276,8 @@
     "Notes/Computer Science/Csharp Standard Library/Data Type Suffixes.md",
     "Notes/Computer Science/Visual Studio/Dotfiles.md",
     "Grid.md",
-    "Notes/Computer Science/Object Oriented Programming/S.O.L.I.D. Design Principles.md",
     "Notes/Computer Science/Csharp Standard Library/Random.md",
     "Notes/Computer Science/Visual Studio/Hotkeys.md",
-    "orej.md",
-    "Notes/Computer Science/Csharp Standard Library/Classes.md",
-    "Notes/Computer Science/Csharp Standard Library/Await.md",
-    "Notes/STAT 516/Mallow's C(p) Statistic.md",
-    "Notes/STAT 516/Variance/Variance Inflation Factor (VIF).md",
-    "Notes/STAT 516/Statistical Bias.md",
-    "Notes/STAT 516/Variance/Multicollinearity.md",
-    "Notes/STAT 516/Adjusted R Squared.md",
-    "Notes/STAT 516/R Squared.md",
-    "Notes/STAT 516/Variance/Analysis of Variance (ANOVA).md",
-    "Notes/STAT 516/Variable Selection.md",
-    "Notes/STAT 516/Simple Linear Regression.md",
-    "Notes/STAT 516/Standard Syntax.md",
-    "Notes/STAT 516/Sum of Squares of Errors (SSE).md",
-    "Notes/STAT 516/Mean Squared Error (MSE).md",
     "Notes/STAT 516/STAT516 Syllabus.pdf",
     "update.sh",
     "Notes/Computer Science/Software Testing",
@@ -208,7 +286,6 @@
     "Notes/Computer Science/Visual Studio",
     "Notes/Computer Science",
     "Notes/Computer Science/Csharp Standard Library",
-    "Notes/Computer Science/Object Oriented Programming",
-    "Notes"
+    "Notes/Computer Science/Object Oriented Programming"
   ]
 }
