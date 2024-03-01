@@ -17,3 +17,5 @@ Low Bias means that your betas are messed up and hard to explain.
 When reducing a model you want to explain the smae amount of variance but with less variables
 
 Bad variables flush themselves out with low beta
+
+∑∑

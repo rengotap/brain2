@@ -85,3 +85,4 @@ TLDR: Keep [[Interfaces]] focused. Use multiple interfaces instead of a single b
 >High level modules should not import anything from low level modules. Both should depend on abstractions. (ex. interfaces)
 
 It is good design to have classes rely on properties in interfaces instead of on each other. This lets us test blocks of code independently, reuse code, and reduce the complexity of the [[System]].
+

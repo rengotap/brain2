@@ -15,11 +15,11 @@ As a general rule of thumb:
 $VIF = 1 \rightarrow X_{j}$ : not involved in any [[Multicollinearity]].
 $VIF > 10 \rightarrow X_{j}$ : involved in severe [[Multicollinearity]].
 
-
+766
 LOW VIF DOES NOT IMPLY THAT SOMETHING IS A GOOD VARIABLE
 However, it could be a good variable to *consider*.
 
 Likewise, a high VIF does not imply that something is a bad variable. It could be a good variable to consider.
 
 Accuracy is to bias as variance is to precision
-Variation in y is $r^2$
+Variation in y is $r^2$6666666666666666666666666666666666666666666666666666666666666666666666666666666666666556
