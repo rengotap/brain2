@@ -13,4 +13,4 @@ Multicollinearity will mess betas up
 4. [[Principle Component Analysis (PCA)]]
 5. Ridge Regression
 
-> Important Note: Multicollinearity doesn't *typically* harm the predictive power of a model.
+> 	Important Note: Multicollinearity doesn't *typically* harm the predictive power of a model.

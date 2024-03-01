@@ -1,5 +1,6 @@
 Also known as the Coefficient of Determination
 
+It will never decrease but it won't always go up. (Penalizing Function)
 
 
 #TODO expand upon me

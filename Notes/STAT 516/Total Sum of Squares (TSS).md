@@ -1,3 +1,6 @@
+## Definition
+The total sum of squares, or TSS, is the overall variation in a model's Y values.
+
 ## Formula
 $TSS = ∑(y-\bar{y})^2$
 

@@ -7,6 +7,8 @@ SLR has two quantitative variables
 - Independent Predictor: $x$
 - Dependent Response: $y$
 
+We assume the relationship between these two can be approximated as a straight line.
+
 $β_0$ is the intercept, $β_1$ is the slope
 ε is the error (wiggle room). Expect ε to equal 0 in this class.
 ### 4 Assumptions of a Simple Linear Regression
@@ -19,3 +21,10 @@ $β_0$ is the intercept, $β_1$ is the slope
 
 JUST BECAUSE $y$ HAS A LINEAR RELATIONSHIP TO $x$ DOES NOT MEAN $x$ CAUSES $y$
 (correlation != causation)
+
+## Estimating Parameters
+$β_0$ and $β_1$ are unknown parameters.
+We use sample data to find estimates $\hat{β}_0$ and $\hat{β}_1$ to produce the [[Least Squares Line]].
+
+For each data point the [[Residual]] (ε) is calculated as:
+$ε=y-\hat{y}$
