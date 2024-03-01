@@ -46,6 +46,10 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 0.36893112425277635,
+=======
+  "scale": 0.7478537827650176,
+>>>>>>> 4ac4cc8 (laptop sync)
   "close": true
 }

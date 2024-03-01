@@ -4,15 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5043c69be9a94ffa",
+        "id": "e3e17ea9e9efc8f8",
         "type": "tabs",
         "children": [
           {
-            "id": "803ead5b67273665",
+            "id": "124e54f697cff2b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/Computer Science/Object Oriented Programming/Encapsulation.md",
                 "mode": "source",
                 "source": false
@@ -108,25 +109,36 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/Computer Science/Object Oriented Programming/Singleton Pattern.md",
+=======
+                "file": "Notes/STAT 516/Variance/Analysis of Variance (ANOVA).md",
+>>>>>>> 4ac4cc8 (laptop sync)
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8a342ccbb66a88b9",
+            "id": "608cd085d96bb24e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Notes/Computer Science/Software Testing/Testing (Software).md",
+=======
+                "file": "Notes/Computer Science/Object Oriented Programming/S.O.L.I.D. Design Principles.md",
+>>>>>>> 4ac4cc8 (laptop sync)
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 7
+=======
+        "currentTab": 1
+>>>>>>> 4ac4cc8 (laptop sync)
       }
     ],
     "direction": "vertical"
@@ -192,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Computer Science/Object Oriented Programming/S.O.L.I.D. Design Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Computer Science/Object Oriented Programming/S.O.L.I.D. Design Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +243,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Computer Science/Object Oriented Programming/S.O.L.I.D. Design Principles.md"
+              }
             }
           }
         ]
@@ -249,6 +265,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "bbe1383cfa6e4eef",
   "lastOpenFiles": [
     "Notes/Computer Science/Networks",
@@ -287,5 +304,45 @@
     "Notes/Computer Science",
     "Notes/Computer Science/Csharp Standard Library",
     "Notes/Computer Science/Object Oriented Programming"
+=======
+  "active": "608cd085d96bb24e",
+  "lastOpenFiles": [
+    "Notes/STAT 516/Variance/ANOVA Hitchcock's Notes.md",
+    "Notes/STAT 516/Variance/Analysis of Variance (ANOVA).md",
+    "Notes/STAT 516/Variance/One Way Analysis of Variance (ANOVA).md",
+    "Notes/STAT 516/Residual.md",
+    "Notes/STAT 516/Outlier.md",
+    "Correlation Coefficient (r).md",
+    "Notes/STAT 516/(MSR).md",
+    "Notes/STAT 516/Mallow's C(p) Statistic.md",
+    "Notes/STAT 516/F-Test.md",
+    "Notes/STAT 516/Least Squares Line.md",
+    "Notes/STAT 516/Cubic Regression.md",
+    "Notes/STAT 516/Beta (Statistics).md",
+    "Notes/STAT 516/Adjusted R Squared.md",
+    "Notes/STAT 516/Variance/X - Bar.md",
+    "Notes/STAT 516/Variance/Variance Inflation Factor (VIF).md",
+    "Notes/STAT 516/Total Sum of Squares (TSS).md",
+    "Notes/STAT 516/P Value.md",
+    "Notes/STAT 516/Statistical Bias.md",
+    "Notes/STAT 516/Sum of Squares of Errors (SSE).md",
+    "Notes/STAT 516/Standard Syntax.md",
+    "Notes/STAT 516/Simple Linear Regression.md",
+    "Converted/MSR.8xv",
+    "Converted/MSR.txt",
+    "Converted/VIF.8xv",
+    "Converted/VIF.txt",
+    "Converted/MEANSQR.txt",
+    "Converted/Variance.8xv",
+    "Converted/Variance Inflation Factor (VIF).8xv",
+    "Converted/Variable Selection.8xv",
+    "Converted/Total Sum of Squares (TSS).8xv",
+    "Converted/Sum of Squares of Errors (SSE).8xv",
+    "Confidence Interval.md",
+    "Notes/STAT 516/Mean Squared Error (MSE).md",
+    "Notes/STAT 516/Variance/Syy.md",
+    "Notes/STAT 516/Variance/Sxy.md",
+    "Notes/STAT 516/Variance/Sxx.md"
+>>>>>>> 4ac4cc8 (laptop sync)
   ]
 }
