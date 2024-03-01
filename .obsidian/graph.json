@@ -47,9 +47,16 @@
   "linkStrength": 1,
   "linkDistance": 250,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "scale": 0.7478537827650176,
 =======
   "scale": 0.36893112425277635,
 >>>>>>> a1ed1651fae374f03ae3f60f8a3c8d7637e51f2b
+=======
+  "scale": 0.36893112425277635,
+=======
+  "scale": 0.7478537827650176,
+>>>>>>> 4ac4cc8 (laptop sync)
+>>>>>>> 45c085f46726568da655fd9a350ced46ac7d9696
   "close": true
 }

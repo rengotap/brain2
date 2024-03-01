@@ -1,158 +1,35 @@
 {
   "main": {
-    "id": "7c211d2ee43f7fdb",
+    "id": "94131838ad059527",
     "type": "split",
     "children": [
       {
-        "id": "e3e17ea9e9efc8f8",
+        "id": "6761f46a4f3bab3c",
         "type": "tabs",
         "children": [
           {
-            "id": "124e54f697cff2b0",
+            "id": "137a075c6c11ba65",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Notes/STAT 516/Variance/Analysis of Variance (ANOVA).md",
-=======
-                "file": "Notes/Computer Science/Object Oriented Programming/Encapsulation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b21b9a4628b9b726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Composition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d586494d83fb1000",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aggregation (Object).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6220c5827987eafd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inheritance (Classes).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92c5393ab3bf6c76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Abstraction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b78254c0f89a5886",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polymorphism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f539ee061061be46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Computer Science/Object Oriented Programming/Databases/One-To-Many Relationship.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bb77a20d4ec4ad7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
-            "id": "06723f68db505b2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Computer Science/Object Oriented Programming/Singleton Pattern.md",
->>>>>>> a1ed1651fae374f03ae3f60f8a3c8d7637e51f2b
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "608cd085d96bb24e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Notes/Computer Science/Object Oriented Programming/S.O.L.I.D. Design Principles.md",
-=======
-                "file": "Notes/Computer Science/Software Testing/Testing (Software).md",
->>>>>>> a1ed1651fae374f03ae3f60f8a3c8d7637e51f2b
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-<<<<<<< HEAD
-        "currentTab": 1
-=======
-        "currentTab": 7
->>>>>>> a1ed1651fae374f03ae3f60f8a3c8d7637e51f2b
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c8432710fc1a8161",
+    "id": "9da5c57b5e032be1",
     "type": "split",
     "children": [
       {
-        "id": "8efd182d30687887",
+        "id": "85e333fcaba1d8ba",
         "type": "tabs",
         "children": [
           {
-            "id": "bbe1383cfa6e4eef",
+            "id": "e3288722d9e859dd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -162,7 +39,7 @@
             }
           },
           {
-            "id": "d4689f00a5360f10",
+            "id": "916bd2bca00f7958",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -177,7 +54,7 @@
             }
           },
           {
-            "id": "b93c9b078f530c5f",
+            "id": "605960766548c1e2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -191,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "4b5e55b794d4ac64",
+    "id": "5ab9c659c9ef7c8c",
     "type": "split",
     "children": [
       {
-        "id": "848db819db8d299d",
+        "id": "1bda94398bce41f1",
         "type": "tabs",
         "children": [
           {
-            "id": "f65c8957cf4f6adb",
+            "id": "e2a39e7aacf162cd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Computer Science/Object Oriented Programming/S.O.L.I.D. Design Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,19 +92,18 @@
             }
           },
           {
-            "id": "7452e309aee9a0d3",
+            "id": "6ac3829bbc96c68a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Computer Science/Object Oriented Programming/S.O.L.I.D. Design Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e5d90ec6370483f3",
+            "id": "c3bb0106d8b77201",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -239,13 +114,11 @@
             }
           },
           {
-            "id": "571063ea1dedfa34",
+            "id": "7df3f405baf5f186",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Computer Science/Object Oriented Programming/S.O.L.I.D. Design Principles.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -265,84 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "608cd085d96bb24e",
-  "lastOpenFiles": [
-    "Notes/STAT 516/Variance/ANOVA Hitchcock's Notes.md",
-    "Notes/STAT 516/Variance/Analysis of Variance (ANOVA).md",
-    "Notes/STAT 516/Variance/One Way Analysis of Variance (ANOVA).md",
-    "Notes/STAT 516/Residual.md",
-    "Notes/STAT 516/Outlier.md",
-    "Correlation Coefficient (r).md",
-    "Notes/STAT 516/(MSR).md",
-    "Notes/STAT 516/Mallow's C(p) Statistic.md",
-    "Notes/STAT 516/F-Test.md",
-    "Notes/STAT 516/Least Squares Line.md",
-    "Notes/STAT 516/Cubic Regression.md",
-    "Notes/STAT 516/Beta (Statistics).md",
-    "Notes/STAT 516/Adjusted R Squared.md",
-    "Notes/STAT 516/Variance/X - Bar.md",
-    "Notes/STAT 516/Variance/Variance Inflation Factor (VIF).md",
-    "Notes/STAT 516/Total Sum of Squares (TSS).md",
-    "Notes/STAT 516/P Value.md",
-    "Notes/STAT 516/Statistical Bias.md",
-    "Notes/STAT 516/Sum of Squares of Errors (SSE).md",
-    "Notes/STAT 516/Standard Syntax.md",
-    "Notes/STAT 516/Simple Linear Regression.md",
-    "Converted/MSR.8xv",
-    "Converted/MSR.txt",
-    "Converted/VIF.8xv",
-    "Converted/VIF.txt",
-    "Converted/MEANSQR.txt",
-    "Converted/Variance.8xv",
-    "Converted/Variance Inflation Factor (VIF).8xv",
-    "Converted/Variable Selection.8xv",
-    "Converted/Total Sum of Squares (TSS).8xv",
-    "Converted/Sum of Squares of Errors (SSE).8xv",
-    "Confidence Interval.md",
-    "Notes/STAT 516/Mean Squared Error (MSE).md",
-    "Notes/STAT 516/Variance/Syy.md",
-    "Notes/STAT 516/Variance/Sxy.md",
-    "Notes/STAT 516/Variance/Sxx.md"
-=======
-  "active": "bbe1383cfa6e4eef",
-  "lastOpenFiles": [
-    "Notes/Computer Science/Networks",
-    "Notes/Computer Science/Untitled.md",
-    "Notes/Computer Science/Object Oriented Programming/Databases/Foreign Key.md",
-    "Notes/Computer Science/Object Oriented Programming/Databases/One-To-Many Relationship.md",
-    "Notes/Computer Science/Object Oriented Programming/Databases/SQL - Structured Query Language.md",
-    "Notes/Computer Science/Object Oriented Programming/Databases/Primary Key.md",
-    "Notes/Computer Science/Object Oriented Programming/Databases",
-    "Notes/Computer Science/Object Oriented Programming/S.O.L.I.D. Design Principles.md",
-    "Class Library.md",
-    "Polymorphism.md",
-    "Abstraction.md",
-    "Inheritance (Classes).md",
-    "Aggregation (Object).md",
-    "Composition.md",
-    "Notes/Computer Science/Object Oriented Programming/Encapsulation.md",
-    "Notes/Computer Science/Powershell.md",
-    "Notes/Computer Science/Software Testing/Testing (Software).md",
-    "Notes/Computer Science/Software Testing/Unit Testing.md",
-    "Notes/Computer Science/Csharp Standard Library/Useful String Manipulations.md",
-    "Notes/Computer Science/Csharp Standard Library/Raw String Literals.md",
-    "Notes/Computer Science/Object Oriented Programming/Singleton Pattern.md",
-    "Notes/Computer Science/Csharp Standard Library/Lambda Expressions.md",
-    "Notes/Computer Science/Csharp Standard Library/Data Type Suffixes.md",
-    "Notes/Computer Science/Visual Studio/Dotfiles.md",
-    "Grid.md",
-    "Notes/Computer Science/Csharp Standard Library/Random.md",
-    "Notes/Computer Science/Visual Studio/Hotkeys.md",
-    "Notes/STAT 516/STAT516 Syllabus.pdf",
-    "update.sh",
-    "Notes/Computer Science/Software Testing",
-    "Notes/Computer Science/Visual Studio/Visual Studio Code Keyboard Shortcuts.pdf",
-    "Notes/Computer Science/Data Structures & Algorithms",
-    "Notes/Computer Science/Visual Studio",
-    "Notes/Computer Science",
-    "Notes/Computer Science/Csharp Standard Library",
-    "Notes/Computer Science/Object Oriented Programming"
->>>>>>> a1ed1651fae374f03ae3f60f8a3c8d7637e51f2b
-  ]
+  "active": "137a075c6c11ba65",
+  "lastOpenFiles": []
 }
