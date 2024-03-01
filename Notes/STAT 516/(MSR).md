@@ -1,0 +1,1 @@
+$MSR = \frac{SSR}{m}$

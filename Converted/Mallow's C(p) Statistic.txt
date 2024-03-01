@@ -1,0 +1,32 @@
+## Definition
+Mallow's C(p) Statistic measures the
+[[Statistical Bias||bias]] in the model
+under consideration relative to the full
+model
+## Formula
+$C(p) = n-(p+1)
+\frac{MSE_{p}}{MSE_{full}} + (p+1)$
+## Characteristics
+For a model having $p$ independent
+variables:
+$C(p) \approx p+1 \rightarrow$ Good!
+$C(p) >> p+1 \rightarrow$ High Bias
+(Missing information)
+$C(p)<<p+1\rightarrow$ Dangerously Low
+Bias (Too Many variables)
+
+> approximation is kind of up in the air
+
+High bias means that you're missing an
+important variable that is telling you a
+lot about your info
+
+Low Bias means that your betas are
+messed up and hard to explain.
+
+When reducing a model you want to
+explain the smae amount of variance but
+with less variables
+
+Bad variables flush themselves out with
+low beta

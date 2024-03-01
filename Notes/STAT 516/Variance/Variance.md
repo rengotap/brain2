@@ -1,0 +1,7 @@
+## Definition
+
+## Formula
+Notation: $σ^2$
+
+## Characteristics
+An unbiased estimate of $σ2$ is the [[Mean Squared Error (MSE)]].
